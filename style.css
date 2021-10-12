@@ -1,0 +1,18 @@
+h2 {
+    background-color: black;
+    color: orange;
+}
+
+/* classes start with a . */
+.blue-text {
+    color: navy;
+}
+
+
+.blue-box {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    background-color: blue;
+    display: inline-block;
+}
