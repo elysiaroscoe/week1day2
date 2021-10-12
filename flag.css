@@ -3,34 +3,20 @@
     padding: 0px;
 }
 
-.blue, .black {
-    width: 200px;
-    height: 600px;
-    display: inline-block;
+.red, .white, .blue {
+    width: 800px;
+    height: 167px;
+    display: block;
 }
 
-.orange {
-    background-color: orange;
-    height: 600px;
-    width: 600px;
-    display: inline-block;
-}
-
-.blue {
-    background-color: blue;
-}
-
-.black {
-    background-color: black;
+.red {
+    background-color: red;
 }
 
 .white {
     background-color: white;
-    width: 600px;
-    height: 50px;
 }
 
-.clear {
-    width: 600px;
-    height: 50px;
+.blue {
+    background-color: #01a2df;
 }
